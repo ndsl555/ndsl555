@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/alan890220/lapor?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/alan890220?ext=heatmap)
